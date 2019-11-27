@@ -42,10 +42,10 @@ class Book
    @author
    @page_count
    @genre
-end 
+end
 
 
-end 
+end
 
 
 
