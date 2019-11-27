@@ -37,11 +37,11 @@ end
 class Book
  attr_accessor :title, :author, :page_count, :genre
 
- def initialize(title)
-   @title
-   @author
-   @page_count
-   @genre
+ def initialize(title, author, page_count, genre)
+   @title = 
+   @author =
+   @page_count = 
+   @genre =
 end
 
 
