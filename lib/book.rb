@@ -1,5 +1,5 @@
 
-
+=begin
 class Book
 
   def initialize(title)
@@ -32,5 +32,20 @@ class Book
 
   #def turn_page
 end
+=end 
+
+class Book
+ attr_accessor :title, :author, :page_count, :genre 
+
+ def initialize
+   @title 
+   @author
+   @page_count
+   @genre 
+
+
+
+
+  
 
 book_1 = Book.new("And Then There Were None")
