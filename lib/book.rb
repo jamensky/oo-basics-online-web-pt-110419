@@ -34,4 +34,3 @@ class Book
 end
 
 book_1 = Book.new("And Then There Were None")
-
