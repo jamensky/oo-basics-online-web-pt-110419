@@ -35,6 +35,5 @@ class Shoe
     @condition
   end
 
-  def
 
 end
