@@ -34,4 +34,4 @@ end
 
 
 
-book_1 = Book.new("And Then There Were None", "RRJ", 400,  "sci-fi")
+book_1 = Book.new("And Then There Were None")
