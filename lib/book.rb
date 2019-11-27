@@ -33,5 +33,5 @@ class Book
   #def turn_page
 end
 
-book_1 = Book.new(title)
-book_1.title = "And Then There Were None"
+book_1 = Book.new("And Then There Were None")
+
