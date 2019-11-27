@@ -32,11 +32,11 @@ class Shoe
   end
 
   def condition=(condition)
-    @condition = condition 
+    @condition = condition
   end
 
-  def cobble 
+  def cobble
     puts "Your shoe is as good as new!"
-  end 
- 
+  end
+
 end
